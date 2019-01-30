@@ -1,0 +1,95 @@
+body {
+    background-color: #f9fafc;
+    font-family: 'Open Sans', sans-serif;
+    margin: 20px;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    padding: 15px 10px;   
+}
+
+div {
+    color: black;
+    font-weight: 800;
+    font-size: 18px;
+    margin-top: 8px;
+}
+
+a {
+    margin-right: 35px;
+    text-decoration: none;
+    color: #69696a;
+    font-weight: 800;
+    font-size: 18px;
+}
+
+button {
+    background-color: #000;
+    color: white;
+    border-radius: 15px;
+    height: 37px;
+    width: 110px;
+    font-size: 15px;
+    padding: 5px 5px 5px;
+}
+
+.footer{
+    width: 100%;
+    position: fixed;
+    top: 93%;
+    text-align: center;
+}
+
+h1 {
+    margin-top: 150px;
+    margin-left: 20px;
+}
+
+.row {
+    display: flex;
+}
+
+.column {
+    flex: 50%;
+    padding: 10px 10px 10px;
+    position: relative;
+}
+
+p {
+    flex: 50%;
+    border-left: 2px solid gray;
+    padding: 10px;
+    color: #69696a;
+}
+
+#circlePink {
+    height: 350px;
+    width: 350px;
+    background-color:rgba(247, 136, 167, 0.6);
+    border-radius: 50%;
+    position: absolute;
+    right: 180px;
+    top: 5px;
+}
+
+#circlePurple {
+    height: 180px;
+    width: 180px;
+    background-color: rgba(207, 130, 213, 0.6);
+    border-radius: 50%;
+    position: absolute;
+    right: 50px;
+    top: 25px;
+}
+
+#circleOrange {
+    height: 250px;
+    width: 250px;
+    background-color:rgba(247, 193, 162, 0.7);
+    border-radius: 50%;
+    position: absolute;
+    right: 50px;
+    top: 130px;
+}
