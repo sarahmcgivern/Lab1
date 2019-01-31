@@ -43,77 +43,14 @@ button {
 .footer {
     width: 100%;
     justify-content: flex-start;
-    /* top: 92%; */
 }
 
 p {
     flex: 50%;
     border-left: 2px solid gray;
-    /* padding: 10px; */
     color: #69696a;
     padding: 15px 10px;  
 } 
-
-/* header {
-    display: flex;
-    justify-content: space-between;
-    padding: 10px 10px;   
-} */
-
-/* div {
-    color: black;
-    font-weight: 800;
-    font-size: 18px;
-    margin-top: 8px;
-}
-
-a {
-    margin-right: 35px;
-    text-decoration: none;
-    color: #69696a;
-    font-weight: 800;
-    font-size: 18px;
-} */
-
-/* button {
-    background-color: #000;
-    color: white;
-    border-radius: 15px;
-    height: 37px;
-    width: 110px;
-    font-size: 15px;
-    padding: 5px 5px 5px;
-} */
-
-
-/* .footer{
-    width: 100%;
-    position: fixed;
-    top: 93%;
-    text-align: center;
-} */
-
-/* h1 {
-    margin-top: 150px;
-    margin-left: 20px;
-}
-
-.row {
-    display: flex;
-}
-
-.column {
-    flex: 50%;
-    padding: 10px 10px 10px;
-    position: relative;
-}
-
-p {
-    flex: 50%;
-    border-left: 2px solid gray;
-    padding: 10px;
-    color: #69696a;
-} */
 
 
 
@@ -143,7 +80,6 @@ button {
 }
 
 .footer{
-    width: 100%;
     position: fixed;
     top: 90%;
     display: flex;
@@ -154,7 +90,6 @@ button {
 h1 {
     margin-top: 100px;
     margin-left: 20px;
-  
 }
 
 .row {
@@ -173,7 +108,6 @@ p {
     padding: 10px;
     color: #69696a;
 }
-
 
 #circlePink {
     height: 350px;
